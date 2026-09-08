@@ -2,3 +2,6 @@
 *.key
 *.secret
 .env
+
+# 屏蔽 WorkBuddy 本地工作日志（非作业内容）
+.workbuddy/memory/
